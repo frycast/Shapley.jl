@@ -1,0 +1,13 @@
+name = "Shapley"
+uuid = "dd37eb9f-33d2-471a-876b-68a47b9b66a3"
+authors = ["Daniel Vidali Fryer <daniel-fryer@live.com.au> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
