@@ -1,1 +1,3 @@
 /Manifest.toml
+*private.jl
+*make-template.jl
